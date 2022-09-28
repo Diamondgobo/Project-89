@@ -1,0 +1,12 @@
+body{
+background-image: url(backy.jpg);
+background-size: contain;
+background-repeat: repeat;
+height: 300px;
+text-align:center;
+}
+#daboss{
+    text-decoration:underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:chartreuse; 
+}
